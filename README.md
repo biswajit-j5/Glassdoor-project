@@ -4,11 +4,17 @@ This project focuses on Glassdoor Jobs Salary Prediction using a cleaned dataset
 The dataset used is glassdoor_jobs_cleaned.csv, which contains structured data including:
 
 1.Job title
+
 2.Company rating
+
 3.Company age
+
 4.Location and state
+
 5.Revenue category
+
 6.Job description text
+
 7.Average salary (target variable)
 
 Through this project, we:
